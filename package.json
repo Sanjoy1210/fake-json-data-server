@@ -1,0 +1,28 @@
+{
+  "name": "fake-json-data-server",
+  "version": "1.0.0",
+  "description": "This is fake json data server for participation REST API's. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjoy1210/fake-json-data-server.git"
+  },
+  "keywords": [
+    "json-server",
+    "fake json data"
+  ],
+  "author": "Sanjoy Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjoy1210/fake-json-data-server/issues"
+  },
+  "homepage": "https://github.com/Sanjoy1210/fake-json-data-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
